@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vansh3xD
-- 👀 I’m interested in teaching others.
+- 👀 I’m interested in learning conceptually.
 - 🌱 I’m currently learning DSA in c++..
 - 💞️ I’m looking to collaborate on projects 
 
